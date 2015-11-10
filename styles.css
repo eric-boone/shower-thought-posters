@@ -1,23 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:700,300,400);
 
-/*html {
-  background: url(images/photo-1437936251057-dfbf79980ce5.jpeg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}*/
 body {
-  /*background-image: url(images/1.jpeg);*/
   font-family: 'Oswald', sans-serif;
   padding: 5% 10%;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
-  /*background: url(images/1.jpeg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;*/
   background-size: cover;
 }
 h1 {
